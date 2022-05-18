@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgb(221,6,1);
+    background-color: rgb(153, 153, 153);
 }
 
 p {
@@ -27,4 +27,12 @@ p {
 #title {
     font-size: 2.3em;
     text-align: center;
+}
+
+.split {
+    height: auto;
+    width: 2px;
+    background-color: rgba(0,0,0,0.8);
+    margin-left: 12px;
+    margin-right: 12px;
 }
