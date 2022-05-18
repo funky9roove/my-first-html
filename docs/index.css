@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'f1';
+    src : url("fonts/formula.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+    font-family: 'f1';
+}
