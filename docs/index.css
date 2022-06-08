@@ -37,3 +37,11 @@ p {
     margin-left: 12px;
     margin-right: 12px;
 }
+
+#information p {
+    font-size: 23px;
+}
+
+#information {
+    overflow-y: auto;
+}
